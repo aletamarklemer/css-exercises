@@ -1,1 +1,22 @@
-/* Add CSS Styling */
+.my-class { 
+    background-color: red;
+    font-family:Verdana, DejaVu Sans, sans-serif;
+}
+#my-id {
+    color:blue;
+    font-size: 36px;
+}
+.my-class.cool-class {
+    background-color: red;
+    font-family:Verdana, DejaVu Sans, sans-serif;
+    font-size: 24px;
+}
+#another-id {
+    color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+.my-class {
+    background-color: red;
+    font-family:Verdana, DejaVu Sans, sans-serif;
+}
